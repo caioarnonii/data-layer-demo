@@ -148,6 +148,27 @@ http://127.0.0.1:8000/sales
 
 ---
 
+## 📄 Endpoints
+
+# Listar vendas (sem filtros)
+GET http://127.0.0.1:8000/sales
+
+# Listar vendas por source
+GET "http://127.0.0.1:8000/sales?source=app"
+
+# Listar vendas por status
+GET "http://127.0.0.1:8000/sales?status=approved"
+
+# Buscar venda específica
+GET http://127.0.0.1:8000/sales/tx_123
+
+# Deletar todas as vendas
+DELETE http://127.0.0.1:8000/sales
+
+# Mostrar métricas
+GET http://127.0.0.1:8000/metrics
+
+
 ## 🧩 Pontos técnicos demonstrados neste projeto
 
 * Criação de API com FastAPI
