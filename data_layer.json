@@ -1,0 +1,242 @@
+[
+  {
+    "transaction_id": "tx-link_pagamento-9",
+    "amount": 141.37,
+    "method": "boleto",
+    "status": "ok",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T13:46:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-2",
+    "amount": 93.65,
+    "method": "credit",
+    "status": "error",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T12:32:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-3",
+    "amount": 72.45,
+    "method": "credito",
+    "status": "approved",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T12:31:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-7",
+    "amount": 187.45,
+    "method": "credit_card",
+    "status": "failed",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T11:51:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-7",
+    "amount": 7.63,
+    "method": "credito",
+    "status": "approved",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T10:14:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-5",
+    "amount": 54.9,
+    "method": "boleto",
+    "status": "ok",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T09:08:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-4",
+    "amount": 83.54,
+    "method": "credit_card",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T08:59:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-3",
+    "amount": 8.89,
+    "method": "pix",
+    "status": "error",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T08:51:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-6",
+    "amount": 44.79,
+    "method": "pix",
+    "status": "failed",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T07:07:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-1",
+    "amount": 73.76,
+    "method": "boleto",
+    "status": "error",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T06:51:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-7",
+    "amount": 61.79,
+    "method": "credit",
+    "status": "error",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T06:51:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-0",
+    "amount": 178.82,
+    "method": "debito",
+    "status": "approved",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T06:22:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-6",
+    "amount": 47.6,
+    "method": "credit",
+    "status": "error",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T05:45:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-5",
+    "amount": 153.47,
+    "method": "debito",
+    "status": "declined",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T05:03:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-3",
+    "amount": 31.0,
+    "method": "credit_card",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T04:54:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-1",
+    "amount": 37.07,
+    "method": "pix",
+    "status": "failed",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T04:52:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-2",
+    "amount": 115.67,
+    "method": "pix",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T04:24:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-0",
+    "amount": 154.92,
+    "method": "pix",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T04:23:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-9",
+    "amount": 188.73,
+    "method": "credit_card",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-28T04:19:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-0",
+    "amount": 28.02,
+    "method": "credit",
+    "status": "ok",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T03:16:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-4",
+    "amount": 50.49,
+    "method": "debito",
+    "status": "declined",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T03:01:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-2",
+    "amount": 161.0,
+    "method": "debito",
+    "status": "approved",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T03:00:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-9",
+    "amount": 32.4,
+    "method": "debito",
+    "status": "approved",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T02:04:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-4",
+    "amount": 84.18,
+    "method": "pix",
+    "status": "ok",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-28T02:04:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-8",
+    "amount": 78.93,
+    "method": "debito",
+    "status": "declined",
+    "source": "maquininha",
+    "timestamp": "2025-11-28T01:19:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-1",
+    "amount": 32.4,
+    "method": "credito",
+    "status": "approved",
+    "source": "maquininha",
+    "timestamp": "2025-11-27T23:26:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-5",
+    "amount": 110.13,
+    "method": "credit_card",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-27T23:12:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-ecommerce-8",
+    "amount": 137.84,
+    "method": "credit_card",
+    "status": "paid",
+    "source": "ecommerce",
+    "timestamp": "2025-11-27T21:52:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-maquininha-6",
+    "amount": 109.85,
+    "method": "credito",
+    "status": "declined",
+    "source": "maquininha",
+    "timestamp": "2025-11-27T21:41:25.450917Z"
+  },
+  {
+    "transaction_id": "tx-link_pagamento-8",
+    "amount": 63.64,
+    "method": "pix",
+    "status": "ok",
+    "source": "link_pagamento",
+    "timestamp": "2025-11-27T21:22:25.450917Z"
+  }
+]
